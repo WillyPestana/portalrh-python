@@ -1,0 +1,4 @@
+openai
+pypdf2
+docx2txt
+pika
